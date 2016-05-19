@@ -1,0 +1,7 @@
+Server socket created
+Client socket created
+
+Sending 'GET' request to URL : http://www.google.com/?q=test1
+Response Code from http://www.google.com/?q=test1: 200
+Client socket created
+Response cached
